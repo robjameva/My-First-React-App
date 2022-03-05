@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Modal from '../Mondal';
+import Modal from '../Modal';
 
 
 function PhotoList({ category }) {
